@@ -12,3 +12,14 @@
 + git rebase
 + git commit -m "prueba"  
 
+## Comandos de Sebastian Loza
++ git pull
++ git checkout main
++ git push --set-upstream origin feature1
++ git merge main
++ git checkout feature1
++ git pull origin main
++ git rebase
++ git add app.py
++ git remote add origin https://github.com/Sebastian-Loza05/practicagit0513
++ git init
